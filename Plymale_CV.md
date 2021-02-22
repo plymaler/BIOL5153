@@ -1,7 +1,7 @@
-﻿<div align="center">
+﻿
 ## Ruth Plymale ##
 #### email: <plymaler@gmail.com> | phone: 870-260-2482 | GitHub: [plymaler](https://github.com/plymaler) | LinkedIn: [ruth-plymale](www.linkedin.com/in/ruth-plymale)
-</div>  
+
 
 &nbsp;
 
