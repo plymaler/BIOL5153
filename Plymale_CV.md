@@ -78,14 +78,14 @@ Research advisor: Dr. Gary Felton, University of Arkansas
 
 ### Advising and Mentoring Skills
 ------------
-• Directed the [Biomedical Scholars program](https://obu.edu/biology/biomed/index.php) at Ouachita Baptist University, including recruiting and advising students  
-• Coordinated the Health Professions Seminar series  
-• Advise undergraduate students on their coursework and future profession, including working with students to formulate their own degree plans and discussing differences in healthcare careers with students  
-• Hired, trained, and managed undergraduate student employees and researchers  
-• Mentored undergraduate laboratory teaching assistants  
-• Guided students through creating and presenting scientific posters, developing and delivering oral presentations, and writing research papers  
-• Created “how to plan your degree” information sheets  
-• Participated in mock interviews as part of the Health Professions Advisory Committee, critiqued students’ personal statements, and wrote student recommendation letters  
+- Directed the [Biomedical Scholars program](https://obu.edu/biology/biomed/index.php) at Ouachita Baptist University, including recruiting and advising students  
+- Coordinated the Health Professions Seminar series  
+- Advise undergraduate students on their coursework and future profession, including working with students to formulate their own degree plans and discussing differences in healthcare careers with students  
+- Hired, trained, and managed undergraduate student employees and researchers  
+- Mentored undergraduate laboratory teaching assistants  
+- Guided students through creating and presenting scientific posters, developing and delivering oral presentations, and writing research papers  
+- Created “how to plan your degree” information sheets  
+- Participated in mock interviews as part of the Health Professions Advisory Committee, critiqued students’ personal statements, and wrote student recommendation letters  
 
 &nbsp;
 
