@@ -32,7 +32,7 @@ Research advisor: Dr. Gary Felton, University of Arkansas
 
 ### Teaching Experience
 ---------------------------
-####Courses Taught at Ouachita Baptist University
+#### Courses Taught at Ouachita Baptist University
 - BIOL 1010: General Biology I Lab *(transitioned from a traditional laboratory to multiple course-based research experiences (CUREs)*)
 - BIOL 1011 / BIOM 1242: Freshman Research Experience *(HHMI SEA-PHAGES in situ course)*
 - BIOL 1023: Introduction to Bioinformatics *(HHMI SEA-PHAGES in silico course)*
@@ -78,14 +78,14 @@ Research advisor: Dr. Gary Felton, University of Arkansas
 
 ### Advising and Mentoring Skills
 ------------
-• Directed the [Biomedical Scholars program](https://obu.edu/biology/biomed/index.php) at Ouachita Baptist University, including recruiting and advising students
-• Coordinated the Health Professions Seminar series
-• Advise undergraduate students on their coursework and future profession, including working with students to formulate their own degree plans and discussing differences in healthcare careers with students
-• Hired, trained, and managed undergraduate student employees and researchers
-• Mentored undergraduate laboratory teaching assistants
-• Guided students through creating and presenting scientific posters, developing and delivering oral presentations, and writing research papers
-• Created “how to plan your degree” information sheets
-• Participated in mock interviews as part of the Health Professions Advisory Committee, critiqued students’ personal statements, and wrote student recommendation letters
+• Directed the [Biomedical Scholars program](https://obu.edu/biology/biomed/index.php) at Ouachita Baptist University, including recruiting and advising students  
+• Coordinated the Health Professions Seminar series  
+• Advise undergraduate students on their coursework and future profession, including working with students to formulate their own degree plans and discussing differences in healthcare careers with students  
+• Hired, trained, and managed undergraduate student employees and researchers  
+• Mentored undergraduate laboratory teaching assistants  
+• Guided students through creating and presenting scientific posters, developing and delivering oral presentations, and writing research papers  
+• Created “how to plan your degree” information sheets  
+• Participated in mock interviews as part of the Health Professions Advisory Committee, critiqued students’ personal statements, and wrote student recommendation letters  
 
 &nbsp;
 
@@ -240,7 +240,7 @@ Research advisor: Dr. Gary Felton, University of Arkansas
 
 &nbsp;
 
-###Publications<br><sup>([ORCid 0000-0001-6122-1905](https://orcid.org/0000-0001-6122-1905))</sup>
+### Publications<br><sup>([ORCid 0000-0001-6122-1905](https://orcid.org/0000-0001-6122-1905))</sup>
 -----------------
 Wolyniak MJ, Reyna NS, **Plymale R**, Pope WH, and Westholm DE. 2018. Mass spectrometry as a tool to enhance "-omics" education. Journal of Microbiology and Biology Education. 19(1), 19.1.8.
 
@@ -274,32 +274,32 @@ Whole genome sequences of eight antibiotic-producing soil bacteria deposited und
 
 ### Honors and Awards
 -------------------
-Arkansas INBRE Summer Research Grant: 2020, 2019
-Academic Advancement Grant, Ouachita Baptist University: 2020, 2018
-Arkansas INBRE Research Development Grant: 2017
-Growth Plan Grant, Ouachita Baptist University: 2018, 2015, 2012
-Library Grant, Ouachita Baptist University: 2015
-Research Grant, Ouachita Baptist University: 2013
-Research Grant, Patterson Undergraduate Research Program, Ouachita Baptist University: 2016, 2015, 2013, 2012, 2011
-Henry Academic Enrichment Grant: Ouachita Baptist University, 2011
+Arkansas INBRE Summer Research Grant: 2020, 2019  
+Academic Advancement Grant, Ouachita Baptist University: 2020, 2018  
+Arkansas INBRE Research Development Grant: 2017  
+Growth Plan Grant, Ouachita Baptist University: 2018, 2015, 2012  
+Library Grant, Ouachita Baptist University: 2015  
+Research Grant, Ouachita Baptist University: 2013  
+Research Grant, Patterson Undergraduate Research Program, Ouachita Baptist University: 2016, 2015, 2013, 2012, 2011  
+Henry Academic Enrichment Grant: Ouachita Baptist University, 2011  
 
 &nbsp;
 
 ### Committee Service and Offices
 -----------------
-Graduate and Professional Advisory Committee, 2021-present
-Graduate and Professional Studies Subcommittee, 2018-2020
-Director, Biomedical Scholars Program, 2017-present
-Health Professions Advisory Committee, 2017-present
-Course Coordinator for non-majors Scientific Connections, 2013-present
-University Catalog Revision Committee, 2014-2015
-University Curriculum and Academic Standards committee, 2013-2016 (committee chair 2015-2016)
-CORE Science Subcommittee, Fall 2012
-Natural Science curriculum committee, 2012-2016 (committee chair 2014-2016)
+Graduate and Professional Advisory Committee, 2021-present  
+Graduate and Professional Studies Subcommittee, 2018-2020  
+Director, Biomedical Scholars Program, 2017-present  
+Health Professions Advisory Committee, 2017-present  
+Course Coordinator for non-majors Scientific Connections, 2013-present  
+University Catalog Revision Committee, 2014-2015  
+University Curriculum and Academic Standards committee, 2013-2016 (committee chair 2015-2016)  
+CORE Science Subcommittee, Fall 2012  
+Natural Science curriculum committee, 2012-2016 (committee chair 2014-2016)  
 
 &nbsp;
 
 ### Professional Affiliations		
 -----------------------
-National Association of Advisors for the Health Professions, member 2019-present
+National Association of Advisors for the Health Professions, member 2019-present  
 American Society for Microbiology, member 2020-present, 2015-2017
