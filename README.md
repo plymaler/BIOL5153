@@ -9,4 +9,4 @@ The files for assignment 03 are in assn03.tgz.  A brief description of each file
 **4.** plymale_assn03.4* are the pbs script and merged standard out plus standard error for the BLASTN comparison of the watermelon nad4L gene with a database made from the sequenced plant mitochondrial genomes.  
 **5.** plymale_assn03.6* are the pbs script and merged standard out plus standard error for the TBLASTN comparison of the watermelon nad4L gene with a database made from all of the watermelon mitochondrial genes.  
 **6.** plymale_assn03.xlsx inclues raw scores, bit scores, and E-values for each of the above BLAST comparisons.  
-**7.** plymale_assn03.7.txt describes the relationship between the raw score, bit score, E-valuea and the BLAST database size.
+**7.** plymale_assn03.7.txt describes the relationship between the raw score, bit score, E-value and the BLAST database size.
