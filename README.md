@@ -17,3 +17,6 @@ The files for assignment 03 are in assn03.tgz.  A brief description of each file
 + module load python/3.7.3-anaconda must be invoked before running either script  
 + The screenshot below shows the output of both scripts, first write_razor_pbs.py and then write_pinnacle_slurm.py  
  	![evidence of successful python3 scripts to create AHPCC job scripts](python3-scripts_create-AHPCC-job-scripts.png)
+
+### Assn 05 - Calculating nucleotide frequency of a given sequence  
++ nucleotide_composition.py is a python3 script that will calculate the frequency of each nucleotide in a given sequence, and will verify whether the sum of these individual nucleotide frequencies is equal to one.
