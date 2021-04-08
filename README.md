@@ -20,3 +20,6 @@ The files for assignment 03 are in assn03.tgz.  A brief description of each file
 
 ### Assn 05 - Calculating nucleotide frequency of a given sequence  
 + `nucleotide_composition.py` is a python3 script that will calculate the frequency of each nucleotide in a given DNA sequence, and will verify whether the sum of these individual nucleotide frequencies is equal to one.
+
+### Assn 06 - Using a GFF file to parse a FASTA file for the nucleotide sequence of each gene
++ `ParseGFF.py` is a python3 script that uses the Biopython SeqIO package, requires a gff file and a fasta file as inputs, and returns the name of each gene and its nucleotide sequence to standard output.
