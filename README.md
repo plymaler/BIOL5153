@@ -22,4 +22,7 @@ The files for assignment 03 are in assn03.tgz.  A brief description of each file
 + `nucleotide_composition.py` is a python3 script that will calculate the frequency of each nucleotide in a given DNA sequence, and will verify whether the sum of these individual nucleotide frequencies is equal to one.
 
 ### Assn 06 - Using a GFF file to parse a FASTA file for the nucleotide sequence of each gene
-+ `ParseGFF.py` is a python3 script that uses the Biopython SeqIO package, requires a gff file and a fasta file as inputs, and returns the name of each gene and its nucleotide sequence to standard output.
++ `ParseGFF.py` is a python3 script that uses the Biopython SeqIO package and the csv and argparse modules, requires inputs of a gff file and a fasta file, and returns the name of each gene and its nucleotide sequence to standard output.
+
+### Assn 07 - Using a GFF file to parse a FASTA file for the concatenated exon nucleotide sequence(s) of each gene
++ `ParseGFF.py` is an update of the Assn 06 `ParseGFF.py`.  This updated python3 script uses several modules--csv, argparse, default dict from collections, and re--and the Biopython SeqIO package.  This script takes a gff file and a fasta file as inputs, extracts the gene name and exon number from the gff file and sorts the genes first by gene name and second by exon number.  Once sorted, these values are used to extract the nucleotide sequence of each exon from the fasta file.  These exon sequences are concatenated for each gene, and the gene name and concatenated sequence are printed to standard output.  The success of this script depends on the exons being identified as such in the gff file.  This script may not work on bacterial genomes.
