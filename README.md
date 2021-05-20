@@ -26,3 +26,5 @@ The files for assignment 03 are in assn03.tgz.  A brief description of each file
 
 ### Assn 07 - Using a GFF file to parse a FASTA file for the concatenated exon nucleotide sequence(s) of each gene
 + `ParseGFF.py` is an update of the Assn 06 `ParseGFF.py`.  This updated python3 script uses several modules--csv, argparse, default dict from collections, and re--and the Biopython SeqIO package.  This script takes a gff file and a fasta file as inputs, extracts the gene name and exon number from the gff file and sorts the genes first by gene name and second by exon number.  Once sorted, these values are used to extract the nucleotide sequence of each exon from the fasta file.  These exon sequences are concatenated for each gene, and the gene name and concatenated sequence are printed to standard output.  The success of this script depends on the exons being identified as such in the gff file.  This script may not work on bacterial genomes.
+
+### End of the semester
