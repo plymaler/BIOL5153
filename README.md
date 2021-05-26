@@ -1,6 +1,12 @@
 ## BIOL5153
 This respository is for BIOL 5153, Practical Programming for Biologists, and is where I will submit assignments for the course.
 
+### Assn 01 - Introduction to Bash shell commands
+This result of this assignment (plymale-assn01.txt) lists commands used to answer questions about moving around, creating and deleting files and folders, looking into files, and finding a text string within a file.
+
+### Assn 02 - Creating a CV in Markdown  
+The resulting file is called Plymale_CV.md.
+
 ### Assn 03 - Using pbs scripts to run BASH on AHPCC Razor  
 The files for assignment 03 are in assn03.tgz.  A brief description of each file is below.  
 **1.** plymale_assn03.1* are the pbs script and merged standard out plus standard error for the BLASTN comparison of the watermelon nad4L gene with a database made from the same gene.  

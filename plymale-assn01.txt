@@ -1,0 +1,31 @@
+1.  No, Python3 is not installed.  Yes, Python2.7 is installed.
+    (a) From my home directory, I used which python3, which python2.7
+
+2.  (a) No
+    (b) 253K
+    (c) From within example_files directory, I used cp letters.txt letters.let
+    (d) From within example_files directory, I used rm letters.let
+    (e) From within example_files directory, I used mkdir lab2
+
+3. From within watermelon_files/aa directory, I used cat cox* > ../../example_files/lab2/cox_genes.fasta
+
+4. From within example_files directory, I used rm -r lab2
+
+5.  (a) From within example_files directory, I used wc -l shaver_etal.csv
+    (b) 1626 lines
+    (c) From within example_files directory, I used grep "Toolik" shaver_etal.csv
+    (d) From within example_files directory, I used grep -v "Toolik" shaver_etal.csv
+
+6. From within my home directory, I used find $HOME -name "*nad*" -print
+
+7. I used top. PhysMem: 9952M used (1080M wired), 2316M unused. (Per the internet, htop may have been better, but it wasn’t on my system and I was not able to install it due to my old operating system.)
+
+8. From within watermelon_files directory, I used grep "misc_feature" watermelon.gff | sort -k7gr > IR_regions.gff
+
+9. More fragments come from outside the IR. Three fragments similar to chloroplast IR region (grep "chloroplast" watermelon.gff | grep -c "IR").  Twenty-five fragments from the chloroplast, not similar to the IR region (grep "chloroplast" watermelon.gff | grep -vc "IR").  These commands were run from within the watermelon_files directory.
+
+10. From within the watermelon_files/nt directory, I used the command grep -r "GGATCC" . | grep -v "GAATTC"
+
+11. From within the example_files directory, I used head -n 1000 shaver_etal.csv | tail -n 500
+
+12. From within the example_files directory, I used sort -k2,2r -k3 fruit.txt | column -t
